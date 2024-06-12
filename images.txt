@@ -5,4 +5,4 @@ kasmweb/nginx:1.25.3
 linuxserver/emby
 xhofe/alist
 rclone/rclone
-loudnas/clouddrive2
+cloudnas/clouddrive2
