@@ -1,1 +1,1 @@
-docker pull portainer/portainer-ce:2.9.3
+portainer/portainer-ce:2.9.3
