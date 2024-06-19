@@ -1,8 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-linuxserver/emby
-xhofe/alist
-rclone/rclone
-cloudnas/clouddrive2
+docker pull portainer/portainer-ce:2.9.3
